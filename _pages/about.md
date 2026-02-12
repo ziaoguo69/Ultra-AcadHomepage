@@ -19,40 +19,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-你好，我叫甘振良，现为<i class="fas fa-university"></i> <strong>复旦大学多媒体智能安全实验室</strong>2023级直博生，师从<a href="https://baike.baidu.com/item/%E5%BC%A0%E6%96%B0%E9%B9%8F/3812768" target="_blank">张新鹏教授</a>，主要研究方向为AI安全与大模型安全。  
+你好，我叫郭子傲，现为2023级直博生，主要研究方向为AI安全与大模型安全。  
 
-当前，我正与<i class="fas fa-shield-alt"></i> <strong>蚂蚁集团大安全部门</strong>开展合作，聚焦AIGC图像可信生成与篡改防护，构建“生成即确权、修改可定位”的内容安全溯源体系。
 
-科研竞赛方面，曾问鼎华为ICT大赛全球总决赛特等奖，获得全国大学生软件创新大赛一等奖与最佳人气奖、全国大学生信息安全竞赛二等奖等13项国家级奖项。
-带领团队斩获创客北京优胜奖、中关村人才创客大赛最具创新创意奖等十余项创新创业荣誉，入围上海市杨浦区全球“创业之星”总决赛，连续三年晋级“挑战杯”“互联网+”国赛。  
-被中国教育在线、人民交通网、华为ICT等媒体采访报道，并录制上海市教委网研中心“讲青年事、说青年话、立青年志”微视频。
+科研竞赛方面，
 
-> 我正在积极寻求AI安全方面的学术合作或研究机会，尤其关注大模型安全和AIGC水印。欢迎联系我，获取更多信息或查阅我的[简历](assets/JiZhenliang's CV.pdf)。
 
-如果您喜欢本首页模板，欢迎 Star 和 Fork 我的开源主页：<a href="https://github.com/GanZhenliang/Ultra-AcadHomepage" target="_blank">Academic</a>。
 
-<div class="highlight-blocks">
 
 <div class="highlight-block">
-  <h3>🛡️ AI安全青年学者</h3>
-  <ul>
-    <li>研究方向聚焦AIGC水印</li>
-    <li>与蚂蚁集团合作提出GenPTW</li>
-    <li>提出SyncGuard音频水印等</li>
-  </ul>
-</div>
-
-<div class="highlight-block">
-  <h3>📘 AI科普推动者</h3>
-  <ul>
-    <li>复旦“云翼讲师团”团长</li>
-    <li>主讲“AI+安全”课程，覆盖千余人</li>
-    <li>足迹遍及新疆、嘉定、复旦附校</li>
-  </ul>
-</div>
-
-<div class="highlight-block">
-  <h3>🧩 产学融合实践者</h3>
+  <h3>产学融合实践者</h3>
   <ul>
     <li>复旦产学实践协会会长</li>
     <li>积极组织产学实践活动</li>
@@ -66,61 +42,29 @@ redirect_from:
 # 🎓 教育背景
 
 <div class="timeline-item">
-  <div class="timeline-time">2023.09 – 至今</div>
+  <div class="timeline-time">2025.09 – 至今</div>
 
   <div class="internship-box">
     <div class="internship-logo">
-      <img src="images/fudan.png" alt="Fudan University logo">
+      <img src="images/fudan.png" alt="Suzhou Centennial College logo">
     </div>
 
     <div class="internship-summary">
       <h3>复旦大学</h3>
-      <div class="internship-role">计算与智能创新学院</div>
-      <div class="internship-role">网络空间安全专业 · 23直博</div>
-      <div class="internship-advisor">
-        导师：<a href="https://baike.baidu.com/item/%E5%BC%A0%E6%96%B0%E9%B9%8F/3812768" target="_blank">张新鹏教授</a>
-      </div>
+      <div class="internship-role">人工智能与大数据学院</div>
+      <div class="internship-role">软件技术专业 · 25 专科 </div>
     </div>
     
     <div class="internship-detail">
-      <p>研究聚焦大模型安全、AIGC水印与音频水印。</p>
+      <p>000</p>
       <ul>
-        <li>提出 GenPTW 等，创立“墨隐钤印”团队</li>
-        <li>与蚂蚁大安全合作，推进可信生成与溯源研究</li>
-        <li>即将在鸿蒙上架APP</li>
+        
       </ul>
     </div>
   </div>
 </div>
 
-<div class="timeline-item">
-  <div class="timeline-time">2019.09 – 2023.06</div>
 
-  <div class="internship-box">
-    <div class="internship-logo">
-      <img src="images/bjtu.png" alt="BJTU logo">
-    </div>
-
-    <div class="internship-summary">
-      <h3>北京交通大学</h3>
-      <div class="internship-role">网络空间安全学院</div>
-      <div class="internship-role">保密技术（信安） · 19本科</div>
-      <div class="internship-advisor">
-        导师：<a href="https://faculty.bjtu.edu.cn/9450/" target="_blank">卢思洋</a>, 
-        <a href="https://faculty.bjtu.edu.cn/9089/" target="_blank">李晓龙教授</a>
-      </div>
-    </div>
-    
-    <div class="internship-detail">
-      <p>本科阶段累计获13项国家级奖项，创新创业成果突出。</p>
-      <ul>
-        <li>华为ICT全球总决赛特等奖、全国软创一等奖</li>
-        <li>“互联网+”大赛产业命题全国银奖</li>
-        <li>“创新创业·英才奖”（全校本硕博仅3人）</li>
-      </ul>
-    </div>
-  </div>
-</div>
 
 <span id="news"></span>
 # 🔥 最新消息
